@@ -394,6 +394,21 @@ section .container {
 }
 
 
+/* ************modification balise p section resume ***********/
+
+
+/* .section-title .title-detail { */
+
+.col-lg-6 .section-title p {
+    font-size: 15px;
+    text-transform: lowercase;
+    font-weight: normal;
+}
+
+
+/******* END *** modification balise p section resume **********/
+
+
 /*--------------------------------------------------------------
 # About
 --------------------------------------------------------------*/

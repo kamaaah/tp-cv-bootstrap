@@ -362,7 +362,7 @@ section .container {
     }
 }
 
-.section-title h2 {
+.container .row .section-title h2 {
     font-size: 14px;
     font-weight: 500;
     padding: 0;
@@ -626,6 +626,10 @@ section .container {
 /*--------------------------------------------------------------
 # Resume
 --------------------------------------------------------------*/
+
+.container .row .top-midle-left {
+    height: 10rem;
+}
 
 .resume .resume-title {
     font-size: 26px;

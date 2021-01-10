@@ -657,11 +657,22 @@ section .container {
 
 /* --------------- Modification  grid  2 * 2-------------- */
 
-.section-title .title-item {}
+
+/* .section-title .title-item {} */
+
+.resume .container-item {
+    padding: 0;
+}
 
 .container .row-item {
     margin-left: 0;
     margin-right: 0;
+}
+
+.resume .col-sm-8 .item-data {
+    column-count: 4;
+    column-gap: 10px;
+    /* height: 100%; */
 }
 
 
